@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Renan Ferreira",
+        "cpf": "11199911140",
+        "email": "ffff@live.com",
+        "whatsapp": "41999999999",
+        "address":{ 
+            "cep": "83701300",
+            "street": "Rua Alagoas",
+            "number": "300",
+            "district": "Iguaçu",
+            "city_uf": "Araucária/PR",
+            "details": "Apto 103"
+        },
+        "deliver_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{   
+    "name": "José Teste",
+    "cpf": "1119AA11140",
+    "email": "joao_cpf_invalido@live.com",
+    "whatsapp": "41999999999",
+    "address":{ 
+        "cep": "83701300",
+        "street": "Rua Alagoas",
+        "number": "300",
+        "district": "Iguaçu",
+        "city_uf": "Araucária/PR",
+        "details": "Apto 103"
+    },
+    "deliver_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+    },
+    "email_inv":{   
+        "name": "José Email Inv",
+        "cpf": "11199911140",
+        "email": "teste.com.br",
+        "whatsapp": "41999999999",
+        "address":{ 
+            "cep": "83701300",
+            "street": "Rua Alagoas",
+            "number": "300",
+            "district": "Iguaçu",
+            "city_uf": "Araucária/PR",
+            "details": "Apto 103"
+        },
+        "deliver_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
